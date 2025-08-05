@@ -1,0 +1,16 @@
+{
+  "name": "qrcode",
+  "version": "1.0.0",
+  "description": "scanning a qrcode ",
+  "main": "qrcode.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "tanatswa",
+  "license": "ISC",
+  "dependencies": {
+    "inquirer": "^12.9.0",
+    "qr-image": "^3.2.0"
+  }
+}
